@@ -1,0 +1,43 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.p{
+    
+    
+    margin-top: 100px;
+    border-top: 2px solid #000;
+    background-image: url(assets/picture-en3dnh2zi84sgt3t.jpg);
+    height: 100vh;
+    width: 100vw;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.h{
+    
+    color: #fff;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+   
+}
+
+.a{
+    color: blue;
+    margin-top: 300px;
+    margin-left: 450px;
+}
+
+.b{
+margin-left: 450px;
+}
+
+.c{
+margin-left: 450px;
+}
+
